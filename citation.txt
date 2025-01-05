@@ -1,0 +1,13 @@
+@inproceedings{REPO179,
+    author = "Zhang, Zhanjie and Zhang, Quanwei and Lin, Huaizhong and Xing, Wei and Mo, Juncheng and Huang, Shuaicheng and Xie, Jinheng and Li, Guangyuan and Luan, Junsheng and Zhao, Lei and Zhang, Dalong and Chen, Lixia",
+    editor = "Larson, Kate",
+    booktitle = "Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, {IJCAI-24}",
+    doi = "10.24963/ijcai.2024/865",
+    month = "8",
+    note = "AI, Arts \& Creativity",
+    pages = "7814--7822",
+    publisher = "International Joint Conferences on Artificial Intelligence Organization",
+    title = "{Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt}",
+    url = "https://doi.org/10.24963/ijcai.2024/865",
+    year = "2024"
+}
