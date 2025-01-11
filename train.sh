@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEIVCES=5 python main.py --base configs/stable-diffusion/v1-finetune.yaml -t --actual_resume ./models/sd1.5/v1-5-pruned.ckpt -n anger --gpus 0,1,2,3,5,6,7 --data_root ./train/anger 
